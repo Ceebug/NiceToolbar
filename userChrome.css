@@ -1,0 +1,3 @@
+toolbarbutton #backbutton {
+	padding-inline-start: 0px !important; /* i wonder who added the padding rule in the first place, this is apparently not a bug
+}
