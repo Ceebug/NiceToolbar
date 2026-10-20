@@ -2,7 +2,7 @@
 A minimal patch for Firefox that makes the toolbar more consistent.
 
 ## What it does
-**NiceToolbar** overrides default firefox styling to make the history buttons the same amount away from the edge of the screen that the hamburger icon would be.
+**NiceToolbar** overrides default Firefox styling to make the history buttons the same amount away from the edge of the screen that the hamburger icon would be.
 
 ## How to Install
 > [!NOTE]
@@ -14,3 +14,7 @@ A minimal patch for Firefox that makes the toolbar more consistent.
 4. Create a folder named `chrome` if it does not already exist.
 5. Save this repository's `userChrome.css` file directly inside that `chrome` folder.
 6. Restart Firefox.
+
+> [!TIP]
+> **Don't be an idiot**<br>
+> Make sure to save any work you care about.
